@@ -1,6 +1,5 @@
 title: Ahmed Alaa
 logo: assets/zes.jpg
-description: >
-  {% include social-links.html %}
+description: "{% include social-links.html %}"
 show_downloads: true
 theme: jekyll-theme-minimal
